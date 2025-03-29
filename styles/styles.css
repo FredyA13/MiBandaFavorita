@@ -1,0 +1,47 @@
+body{
+    background-image: url(../assets/dark-black-and-white-abstract-black-background-wallpaper-preview.webp);
+}
+nav.navbar{
+    padding: 0px;
+}
+
+nav div.container-fluid{
+    background-color: black;
+}
+
+nav div.container-fluid div#nav-2 a{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav div.container-fluid div#nav-2 a:hover{
+    color: yellow;
+}
+
+
+/* h1{
+    color: white; Verificar porque no se pone en blanco
+} */
+
+#comentario{
+    width: 600px;
+    height: 100px;
+    display: block;
+}
+
+#comentario-lb{
+    display: block;
+}
+
+h1{
+    color: white;
+}
+
+form{
+    color: white;
+}
+
+div.col div.card{
+    background-color: grey;
+    width: 300px;
+}
